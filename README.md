@@ -1,3 +1,6 @@
+Why?
+- REFramework currently blows up on ARM64EC containers. It crashes straight away once the x86 instrumentation gets dispatched.
+
 1. Install
    
 Extract the mod files directly into your Monster Hunter Rise root folder (where MonsterHunterRise.exe is located).
