@@ -10,4 +10,4 @@ Value: dinput8=n,b
 Open MHRiseFix.ini with any text editor. You can easily change TargetWidth and TargetHeight to match any screen ratio you want (e.g., 4:3, 16:10, 21:9).
 
 4. Full-Screen Stretching
-Set your display scaling to "Stretch" in your Game/Native settings. If your container resolution is set to 1280x720, this will perfectly stretch the 4:3 rendered image to fill your entire screen.
+Set your display scaling to "Stretch" in your GameNative settings. For RP Nova, If your container resolution is set to 1280x720, this will perfectly stretch the 4:3 rendered image to fill your entire screen.
