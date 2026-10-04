@@ -5,9 +5,9 @@ Why?
    
 Extract the mod files directly into your Monster Hunter Rise root folder (where MonsterHunterRise.exe is located).
 
-2. For Steam Deck / Winlator (Wine Users)
+2. For SteamOS / Winlator (Wine Users)
    
-If you are playing on Linux (Proton/Steam Deck) or Android (Winlator/Wine), you must add the following environment variable to your game or container settings to load the mod:
+If you are playing on Linux (Proton/SteamOS) or Android (Winlator/Wine), you must add the following environment variable to your game or container settings to load the mod:
 Name: WINEDLLOVERRIDES
 Value: dinput8=n,b
 
